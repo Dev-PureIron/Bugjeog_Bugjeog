@@ -12,6 +12,10 @@
 🎈[Front-end]
 공지사항, FAQ <br>
 
+ ✨공지사항
+ 
+ ✨FAQ
+
 🎈[Back-end]
 관리자 서비스 작업 총 진행 <br>
  
